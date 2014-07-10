@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_007040</identifier>
+   <identifier>CLIO id: 7094832</identifier>
+   <titleInfo>
+      <title>Album: signatures of some of those who came to examine the model of the Temple of Solomon. 30 verso</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1748</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1757</dateCreated>
+      <dateCreated>1748-1757</dateCreated>
+      <place>
+        <placeTerm type="text">Utrecht</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/scholars/x893_al1</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>X893 AL1</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The People in the Books: Hebraica and Judaica Manuscripts from Columbia University Libraries</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9680681</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>X Manuscripts</title>
+      </titleInfo>
+    </relatedItem>
+   <note>original filename: X893_AL1_034.tif</note>
+   <name>
+      <namePart>Mill, David, 1692-1756</namePart>
+    </name>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

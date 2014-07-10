@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_007134</identifier>
+   <titleInfo>
+      <title>Drafts of loan records, many pertaining to Jews</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="inferred">1380</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1386</dateCreated>
+      <dateCreated>pre-1387</dateCreated>
+      <place>
+        <placeTerm type="text">Apt, Provence, France</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/communities/western_ms_41f</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>Western MS 41F</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The People in the Books: Hebraica and Judaica Manuscripts from Columbia University Libraries</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9680681</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Medieval/Renaissance</title>
+      </titleInfo>
+    </relatedItem>
+   <note>original filename: 5598.tif</note>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_007103</identifier>
+   <identifier>CLIO id: 7184846</identifier>
+   <titleInfo>
+      <title>Igeret Naḥash ʻaḳalton: le-ahuvo Mosheh Penpolov. First page of text</title>
+    </titleInfo>
+   <titleInfo>
+      <title>אגרת נחש עקלתון לאהובו משה פונפולוו.</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1860</dateCreated>
+      <dateCreated>1860</dateCreated>
+    </originInfo>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/karaites/x893_h26</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>X893 H26</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The People in the Books: Hebraica and Judaica Manuscripts from Columbia University Libraries</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9680681</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>X Manuscripts</title>
+      </titleInfo>
+    </relatedItem>
+   <note>original filename: 120017147.tif</note>
+   <name>
+      <namePart>Firkowitsch, Abraham, 1786-1874</namePart>
+    </name>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">heb</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

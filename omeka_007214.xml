@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_007214</identifier>
+   <identifier>CLIO id: 7140108</identifier>
+   <titleInfo>
+      <title>Observate ex Immanuelis. 1 verso - 2 recto</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1568</dateCreated>
+      <dateCreated>1568</dateCreated>
+      <place>
+        <placeTerm type="text">Geneva</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>X893 B476</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The People in the Books: Hebraica and Judaica Manuscripts from Columbia University Libraries</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9680681</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>X Manuscripts</title>
+      </titleInfo>
+    </relatedItem>
+   <note>original filename: X893_B476_002.tif</note>
+   <name>
+      <namePart>Tremellius, Immanuel, 1510-1580</namePart>
+    </name>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

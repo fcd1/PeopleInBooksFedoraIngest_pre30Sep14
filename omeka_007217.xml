@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_007217</identifier>
+   <identifier>CLIO id: 7519015</identifier>
+   <titleInfo>
+      <title>Ani ha-gever dibarti el libi be-khol ʻet ki en ka-el. 5 verso</title>
+    </titleInfo>
+   <titleInfo>
+      <title>אני הגבר דברתי אל לבי בכל עת כי אין כאל</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="approximate">1400</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1499</dateCreated>
+      <dateCreated>15th century</dateCreated>
+    </originInfo>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>X893 C73</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The People in the Books: Hebraica and Judaica Manuscripts from Columbia University Libraries</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9680681</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>X Manuscripts</title>
+      </titleInfo>
+    </relatedItem>
+   <note>original filename: X893.15_C73_005b.tif</note>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">heb</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

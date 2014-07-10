@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_007116</identifier>
+   <identifier>CLIO id: 7204151</identifier>
+   <titleInfo>
+      <title>Ḥuḳe ḥayim: ḥeleḳ rishon Mayim Ṭeorim. Title page</title>
+    </titleInfo>
+   <titleInfo>
+      <title>חקי חיים חלק ראשון מים טהורים ; חלק שני לקבר יובל</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1813</dateCreated>
+      <dateCreated>1813</dateCreated>
+      <place>
+        <placeTerm type="text">France</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/hebrew_mss/lifecycle/x893_j559</url>
+      <holdingSimple>
+        <copyInformation>
+            <shelfLocator>X893 J559</shelfLocator>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The People in the Books: Hebraica and Judaica Manuscripts from Columbia University Libraries</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio9680681</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>X Manuscripts</title>
+      </titleInfo>
+    </relatedItem>
+   <note>original filename: 120017046.tif</note>
+   <name>
+      <namePart>Weil, Yitsḥaḳ Aizeḳ ben Tsadoḳ</namePart>
+    </name>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">heb</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>
